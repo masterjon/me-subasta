@@ -1,0 +1,22 @@
+{
+  "name": "me-subasta",
+  "version": "0.0.0",
+  "description": "Facebook app",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:me-subasta.git"
+  },
+  "author": "Jonathan Horta",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.4.8",
+    "logfmt": "~1.0.0-pre"
+  },
+"engines": {
+    "node": "0.10.x"
+  }
+}
